@@ -8,6 +8,8 @@ Config.TruckerJobMaxDrops = 20 -- amount of locations before being forced to ret
 Config.TruckerJobDropPrice = 500
 Config.TruckerJobBonus = 20 -- this is a percentage to calculate bonus over 5 deliveries.
 Config.TruckerJobPaymentTax = 15
+Config.TruckerJobDemandIncrease = 500
+Config.ShopsDemandJsonFile = './json/shops-demand.json' -- json file location
 
 Config.TruckerJobLocations = {
     ["main"] = {

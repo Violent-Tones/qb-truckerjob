@@ -21,3 +21,6 @@ client_scripts {
 server_scripts {
 	'server/main.lua',
 }
+
+file 'json/shops-demand.json'
+lua54 'yes'
